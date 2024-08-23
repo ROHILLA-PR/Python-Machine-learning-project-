@@ -1,6 +1,9 @@
 
 # Insurance Applicant Risk Analysis
 
+# Dataset Source
+https://www.kaggle.com/datasets/sooyoungher/smoking-drinking-dataset/data
+
 ## Problem Statement
 
 Insurance firms evaluate applicants through a process known as underwriting. This process involves assessing the risk associated with insuring an individual and determining the terms of coverage, including premiums and policy limits.
